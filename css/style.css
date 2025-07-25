@@ -1,0 +1,15 @@
+body {
+  font-family: 'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, 'Liberation Sans', sans-serif;
+  font-size: 1.05rem;
+  background-color: #f8f9fa;
+}
+
+.navbar {
+  font-family: inherit;
+  font-size: 1.05rem;
+}
+
+.navbar-brand {
+  letter-spacing: 2px;
+}
+/* Custom styles for Bucks2Bar */
